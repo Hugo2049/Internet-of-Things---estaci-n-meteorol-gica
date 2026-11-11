@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+
+# Secretos (usar .env.example como plantilla)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Salidas generadas
+output/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Capturas de pantalla sueltas
+Captura de pantalla*.png
